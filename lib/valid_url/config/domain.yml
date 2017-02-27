@@ -3,6 +3,7 @@ protocols:
   - https
 zones:
   - abogado
+  - abbott
   - ac
   - academy
   - accountants
